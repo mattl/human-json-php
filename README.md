@@ -34,6 +34,10 @@ Making sure that human.json is indeed at that location.
 
 This is all to support the https://codeberg.org/robida/human.json project.
 
+## Why am I not on *your* human.json file, eh?
+
+Not being on the example list does not mean you're not my pal, FYI. 
+
 ---
 
 human.json generator in PHP by Matt Lee (https://mat.tl) is marked CC0 1.0. To view a copy of this mark, visit https://creativecommons.org/publicdomain/zero/1.0/
