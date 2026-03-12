@@ -1,6 +1,6 @@
 <?php
 
-// humans.json generator in PHP by Matt Lee is marked CC0 1.0.
+// human.json generator in PHP by Matt Lee is marked CC0 1.0.
 // To view a copy of this mark, visit https://creativecommons.org/publicdomain/zero/1.0/
 
 $pals = file('pals.txt');
